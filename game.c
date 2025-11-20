@@ -11,7 +11,7 @@
  * getCardAtIndex, removeCardAtIndex, getDeckSize, etc.) and the
  * shuffleDeck() function from deck_operations.h.
  *
- * @author Adam
+ * @author Adam McCarthy
  * @date 20/11/2025
  */
 
@@ -195,3 +195,4 @@ void transferPlayedToHidden(CardDeck* playedDeck, CardDeck* hiddenDeck) {
     /* Shuffle the newly populated hidden deck */
     shuffleDeck(hiddenDeck);
 }
+
