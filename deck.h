@@ -5,8 +5,8 @@
  * This module defines an abstract data type for a dynamic deck of cards
  * that can grow/shrink as needed. Implementation details are hidden.
  *
- * @author
- * @date
+ * @author warda 
+ * @date 20th November 2025 
  */
 
  // uses: Card type, printCard()
