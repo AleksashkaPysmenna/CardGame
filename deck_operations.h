@@ -1,11 +1,11 @@
-﻿/**
+/**
  * @file deck_operations.h
- * @brief Dynamic CardDeck abstract data type and operationsAlgorithms for deck manipulation (shuffling and sorting)
+ * @brief Algorithms for deck manipulation (shuffling and sorting)
  * 
  * This module provides algorithms for shuffling and sorting decks of cards.
  *
- * @author
- * @date
+ * @author - Gearóid Corrigan, ____
+ * @date - 22/11/2025
  */
 
  // uses: All functions from  deck.h
